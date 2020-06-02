@@ -30,6 +30,7 @@ printf {qtdReservadas++;}
 scanf {qtdReservadas++;}
 while {qtdReservadas++;}
 do {qtdReservadas++;}
+to {qtdReservadas++;}
 
 "+" {qtdOpRelacionais++;}
 "-" {qtdOpRelacionais++;}
