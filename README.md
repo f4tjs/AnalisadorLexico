@@ -2,8 +2,7 @@
 
 Trabalho da disciplina de TGC
 
-Grupo:
-
+**Grupo:**
 Matheus de Jesus Artilino
 Daniel Vicente Neves Alves
 Victor Hugo Santana Pereira
