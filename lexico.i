@@ -87,7 +87,7 @@ void Clear(){
     system("cls");
 }
 
-void Finish(){
+Finish(){
     displayInfo();
     printf("\n\nAnalisador foi finalizado!\n\n");
     Stop();
